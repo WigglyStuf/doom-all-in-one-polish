@@ -1,7 +1,5 @@
-===========================================================================
 Advanced engine needed  : GZDoom 4.14 or newer (not tested on older versions)
 Primary purpose         : No levels included
-===========================================================================
 Title                   : All-In-One Doom Polish
 Filename                : aio_polish_0.1.0.pk3
 Release date            : January 24, 2025
@@ -15,7 +13,7 @@ Description             : A general improvement mod/modpack for Doom. Meant
 Additional Credits to   : Most of this mod is not made by me. Check
                           CREDITS.txt. If anything isn't credited, I either
                           forgot to credit it or it's from me.
-===========================================================================
+                          
 * What is included *
 
 New levels              : None
@@ -54,15 +52,3 @@ Tested With             : GZDoom 4.14
 * Copyright / Permissions *
 
 This work is licensed under the MIT liscense, according to the github repository
-
-===========================================================================
-*********CHANGELOG*********************************************************
-===========================================================================
-V0.1.1
--Fixed Chaingun sound looping
--Fixed Super Shotgun not making noise
--Made Nightmare graphic a spooky green
--Gave the shotgun a little bit of offset
--Fixed the README a bit
--Added new death sprites that depend on weapon used
--Put it on github
